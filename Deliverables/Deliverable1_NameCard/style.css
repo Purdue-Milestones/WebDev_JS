@@ -1,0 +1,67 @@
+body {
+    background-color: #CFB991;
+}
+#profile_area {
+    text-align: center;
+    padding: 30px;
+}
+#heading_1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+#subtitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #555960;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.bodytext {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #555960;
+    margin: 3px;
+}
+
+.ListElement {
+    display: grid;
+    grid-template-columns: min-content auto;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    align-items:;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.spacer {
+    height: 50px;
+}
+
+hr.dividerSolid {
+    border-top: 3px solid #555960;
+    background-color: #555960;
+    margin: 0px;
+    padding: 0px
+}
+
+img.icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    padding-right: 50px;
+    vertical-align:top;
+}
+
+p.ListText {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: left;
+}
