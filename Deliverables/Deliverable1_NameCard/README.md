@@ -2,6 +2,7 @@
 ----
 ## Overview
 Create basic Name Card webpage using HTML and CSS.  
+View on Web Browser: <a href="https://purdue-milestones.github.io/WebDev_JS/Deliverables/Deliverable1_NameCard/">click here</a>
   
 ### Used Technology:
 1. Basic HTML Technology
