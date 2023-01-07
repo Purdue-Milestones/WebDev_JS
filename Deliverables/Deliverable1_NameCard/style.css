@@ -2,9 +2,14 @@ body {
     background-color: #CFB991;
 }
 #profile_area {
+    position: relative;
+    top: -300px;
+    margin-bottom: -300px;
+    align-items: center;
     text-align: center;
-    padding: 30px;
+    
 }
+
 #heading_1 {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
@@ -21,6 +26,25 @@ body {
     font-weight: bold;
     font-size: 20px;
     margin: 5px;
+}
+
+#main_banner {
+    margin: auto;
+    padding: auto;
+    width: auto;
+    min-height: 400px;
+    background-image: url('images/pillar-banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+}
+
+#profile_image {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background-color: gainsboro;
 }
 
 .bodytext {
