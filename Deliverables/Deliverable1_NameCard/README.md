@@ -12,7 +12,8 @@ View on Web Browser: <a href="https://purdue-milestones.github.io/WebDev_JS/Deli
 
   
 ### Preview
-![Screenshot 2023-01-04 at 12 23 11 AM](https://user-images.githubusercontent.com/61890844/210490322-a5927857-b4c3-4848-ba20-fc60e1e0f837.png)
+![Screenshot 2023-01-06 at 10 53 20 PM](https://user-images.githubusercontent.com/61890844/211130041-c2c205f6-ab30-450b-9593-5e4d0c251a6c.png)
+
   
 ----
-Last Updated: Januaray 3rd, 2023
+Last Updated: Januaray 6, 2023
